@@ -8,8 +8,7 @@ import './App.css';
 function App() {
   return (
     
-      <div>
-      <MainNavigation/> 
+      <div> 
       <Routes/> 
       </div>
     

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Button, FormGroup, FormControl, FormLabel } from "react-bootstrap";
-import validator from 'validator'
+import validator from 'validator';
+import {ActorContext} from './shared/context/actor-context';
 import "./Login.css";
 
 
